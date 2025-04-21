@@ -42,7 +42,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/65559</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000122203</dc:source>
 		<meta property="se:production-notes">The page scans at the HathiTrust Digital Library do not match the transcription exactly. There are punctuation differences and the spelling has been changed to American English.</meta>
-		<meta property="se:word-count">75445</meta>
+		<meta property="se:word-count">75447</meta>
 		<meta property="se:reading-ease.flesch">83.46</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/alan-sullivan_the-jade-god</meta>
 		<dc:creator id="author">Alan Sullivan</dc:creator>
