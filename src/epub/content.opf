@@ -55,7 +55,7 @@
 		<link href="https://id.loc.gov/authorities/names/n84068376.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Edvard Munch</dc:contributor>
-		<meta property="file-as" refines="#artist">Munch Edvard</meta>
+		<meta property="file-as" refines="#artist">Munch, Edvard</meta>
 		<link href="https://en.wikipedia.org/wiki/Edvard_Munch" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79006348.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
@@ -68,7 +68,7 @@
 		<dc:contributor id="transcriber-3">Distributed Proofreaders Canada</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders Canada</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<link href="http://www.pgdpcanada.net/" refines="#transcriber-3" rel="schema:url"/>
+		<link href="https://www.pgdpcanada.net/" refines="#transcriber-3" rel="schema:url"/>
 		<dc:contributor id="producer-1">Lukas Bystricky</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Bystricky, Lukas</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
